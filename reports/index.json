@@ -1,0 +1,40 @@
+{
+  "colorPalette": "amber-warm",
+  "glassSurfaces": false,
+  "glassmorphic": false,
+  "entries": [
+    {
+      "id": "20260809-194933-3iiz",
+      "title": "Napalm Phantasm",
+      "commanders": [
+        "Napalm Phantasm"
+      ],
+      "guild": {
+        "id": "187E83EC-8A2F-E611-80D4-E4115BE8E905",
+        "name": "Some Lazy Aussie Players",
+        "tag": "SLAP"
+      },
+      "dateStart": "2026-08-09T09:49:33.000Z",
+      "dateEnd": "2026-08-09T12:01:59.000Z",
+      "dateLabel": "8/9/2026, 7:49:33 PM - 8/9/2026, 10:01:59 PM",
+      "url": "https://NapalmNapalm.github.io/NapalmSLAP/?report=20260809-194933-3iiz",
+      "summary": {
+        "borderlandsPct": 0.125,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 14,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 2,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 35,
+        "avgEnemySize": 19
+      }
+    }
+  ]
+}
