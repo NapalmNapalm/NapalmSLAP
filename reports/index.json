@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260819-203319-ummg",
+      "title": "Napalm Phantasm",
+      "commanders": [
+        "Napalm Phantasm"
+      ],
+      "guild": {
+        "id": "187E83EC-8A2F-E611-80D4-E4115BE8E905",
+        "name": "Some Lazy Aussie Players",
+        "tag": "SLAP"
+      },
+      "dateStart": "2026-08-19T10:33:19.000Z",
+      "dateEnd": "2026-08-19T11:35:48.000Z",
+      "dateLabel": "8/19/2026, 8:33:19 PM - 8/19/2026, 9:35:48 PM",
+      "url": "https://NapalmNapalm.github.io/NapalmSLAP/?report=20260819-203319-ummg",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 22,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 29,
+        "avgEnemySize": 16
+      }
+    },
+    {
       "id": "20260812-212717-fsce",
       "title": "Napalm Phantasm",
       "commanders": [
