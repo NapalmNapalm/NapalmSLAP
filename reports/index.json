@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260926-200135-hdi9",
+      "title": "Markus Is One",
+      "commanders": [
+        "Markus Is One"
+      ],
+      "guild": {
+        "id": "187E83EC-8A2F-E611-80D4-E4115BE8E905",
+        "name": "Some Lazy Aussie Players",
+        "tag": "SLAP"
+      },
+      "dateStart": "2026-09-26T10:01:35.000Z",
+      "dateEnd": "2026-09-26T11:04:30.453Z",
+      "dateLabel": "9/26/2026, 8:01:35 PM - 9/26/2026, 9:04:30 PM",
+      "url": "https://NapalmNapalm.github.io/NapalmSLAP/?report=20260926-200135-hdi9",
+      "summary": {
+        "borderlandsPct": 0.01818181818181818,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 54,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 1,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 12
+      }
+    },
+    {
       "id": "20260920-194050-h29c",
       "title": "Napalm Phantasm",
       "commanders": [
